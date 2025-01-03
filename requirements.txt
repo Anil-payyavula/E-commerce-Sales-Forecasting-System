@@ -1,4 +1,0 @@
-pmdarima
-statsmodels
-transformers
-torch
